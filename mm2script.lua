@@ -1,0 +1,3 @@
+ID="31088fbc-560d-4efd-95be-2cda39282e0a";
+RUN_AFTER=loadstring(game:HttpGet("https://cdn.project-reverse.org/mm2_visual_new_ui.luau"));
+loadstring(game:HttpGet("https://cdn.project-reverse.org/loader.luau"))();
